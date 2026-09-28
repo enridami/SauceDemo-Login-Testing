@@ -55,7 +55,7 @@ El plan de pruebas se dividió estratégicamente en **8 Escenarios de Prueba (Te
 | :--- | :---: | :---: |
 | **Casos de Prueba Diseñados** | 20 | 100% |
 | **Casos de Prueba Ejecutados** | 20 | 100% |
-| **Casos Exitosos (PASS)** | 20 | ✔️ Exitoso |
+| **Casos Exitosos (PASS)** | 20 | Exitoso |
 | **Casos Fallidos (FAIL)** | 0 | Limpio |
 | **Bugs Críticos Detectados** | 0 | N/A |
 
